@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Dictionnary entry</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+<body>
+    <h1>ninja</h1>
+    <img src="" alt="">
+    <p><em>noun</em></p>
+    <ol>
+        <li>A practitioner skilled in the japanese art of ninjutsu</li>
+        <li>A programmer who breaks down problems with zen-like focus</li>
+        </ol>
+</body>
+</html>
