@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>registration form</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h1>registration form</h1>
+    <input type="text">
+        <label for="First Name:*"></label>
+    <input type="text">
+        <label for="Last Name:*"></label>
+    <input type="text">
+        <label for="Email Adress:*"></label>
+    <input type="password">
+        <label for="password:*"></label>
+    <input type="password">
+        <label for="Confirm password:*"></label>
+    <input type="date">
+        <label for="birthday:"></label>
+    <input type="radio" name="Gender Identity:">
+        <label for="male">male</label>
+        <label for="female">female</label>
+        <label for="non-binary">non-binary</non-binary></label>
+        <label for="i prefer not to answer">i prefer not to answer</label>
+    <input type="textarea">
+        <label for="A short description about myself:"></label>
+        <select name="JavaScript"></select>
+        <option value="JavaScript"></option>
+    <input type="checkbox">
+</body>
+</html>
